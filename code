@@ -147,15 +147,15 @@ for daycount in dayrange:
         body_html = article['fields'].get('body', '')
         soup = BeautifulSoup(body_html, 'html.parser')
         body_text = soup.get_text()
-        word_count = len(body_text.split())
-        title_word_count = len(title.split())
-        trail_text_word_count = len(trail_text.split())
-        total_word_count = title_word_count + trail_text_word_count + word_count
         published_date = article['webPublicationDate']
         url = article['webUrl']
         author_name = get_author_name(article)
         thumbnail_url = article['fields'].get('thumbnail', '')
         trail_text = article['fields'].get('trailText', 'No summary available')
+        word_count = len(body_text.split())
+        title_word_count = len(title.split())
+        trail_text_word_count = len(trail_text.split())
+        total_word_count = title_word_count + trail_text_word_count + word_count
         publication = article['fields'].get('publication', 'theguardian.com')  
         keywords1 = ', '.join([tag['webTitle'] for tag in article.get('tags', []) if tag['type'] == 'keyword'])
         body_html_with_title_and_url = f"""
