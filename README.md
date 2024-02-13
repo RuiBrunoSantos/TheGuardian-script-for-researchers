@@ -6,7 +6,7 @@ The limitations of this application are consistent with those of similar applica
 
 To use it, you should download the "code" file and install certain Python packages.
 
-pip install requests
-pip install reportlab
-pip install beautifulsoup4
-pip install xhtml2pdf
+pip install requests <br>
+pip install reportlab <br>
+pip install beautifulsoup4 <br>
+pip install xhtml2pdf <br>
