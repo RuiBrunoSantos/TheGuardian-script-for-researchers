@@ -1,3 +1,5 @@
+<h1>Installer</h1>
+
 This code enables the extraction of articles from The Guardian newspaper using the API provided by the newspaper, and saves them into a PDF file. It is a Python script.
 
 To access the API, you need to request an API key at https://bonobo.capi.gutools.co.uk/register/developer
