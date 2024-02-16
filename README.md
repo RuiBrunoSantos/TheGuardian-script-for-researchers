@@ -1,3 +1,5 @@
+<img>https://camo.githubusercontent.com/ce8bc12cf25c8c9ca787cf95e3693d5a17f5f4bb2b8dd5c272b88404f7ebf476/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d616465253230776974682d507974686f6e332d627269676874677265656e</img>
+
 <h1>Installer</h1>
 
 This code enables the extraction of articles from The Guardian newspaper using the API provided by the newspaper, and saves them into a PDF file. It is a Python script.
