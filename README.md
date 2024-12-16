@@ -18,7 +18,7 @@ pip install beautifulsoup4 <br>
 pip install xhtml2pdf <br>
 
 <h1>Citation</h1>
-Santos, B. R. (2024). TheGuardian Researchers. An application for automated data retrieval on the journal. Source code and releases available at https://github.com/DKZPT/TheGuardian-script-for-researchers.
+Santos, B. R. (2024). TheGuardian Researchers. An application for automated data retrieval on the journal. Source code and releases available at https://github.com/RuiBrunoSantos/TheGuardian-script-for-researchers.
 
 <h1>Licence</h1>
 
