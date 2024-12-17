@@ -16,7 +16,7 @@ pip install beautifulsoup4 <br>
 pip install xhtml2pdf <br>
 
 <h1>Citation</h1>
-Rui Bruno Santos. (2024). RuiBrunoSantos/TheGuardian-script-for-researchers: Version 1.0 (1.0). Zenodo. https://doi.org/10.5281/zenodo.14505940
+Rui Bruno Santos. (2024). RuiBrunoSantos/TheGuardian-script-for-researchers: Version 1.0 (1.0). Zenodo. https://doi.org/10.5281/zenodo.14505940 <br>
 <a href="https://doi.org/10.5281/zenodo.14505940"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14505940.svg" alt="DOI"></a>
 
 <h1>Licence</h1>
