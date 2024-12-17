@@ -1,5 +1,3 @@
-<img src="https://camo.githubusercontent.com/ce8bc12cf25c8c9ca787cf95e3693d5a17f5f4bb2b8dd5c272b88404f7ebf476/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d616465253230776974682d507974686f6e332d627269676874677265656e" alt="Python">
-
 <h1>About the project</h1>
 
 This project enables the extraction of articles from The Guardian newspaper using the API provided by the newspaper, and saves them into a PDF file. 
@@ -18,7 +16,8 @@ pip install beautifulsoup4 <br>
 pip install xhtml2pdf <br>
 
 <h1>Citation</h1>
-Santos, B. R. (2024). TheGuardian Researchers. An application for automated data retrieval on the journal. Source code and releases available at https://github.com/RuiBrunoSantos/TheGuardian-script-for-researchers.
+Rui Bruno Santos. (2024). RuiBrunoSantos/TheGuardian-script-for-researchers: Version 1.0 (1.0). Zenodo. https://doi.org/10.5281/zenodo.14505940
+<a href="https://doi.org/10.5281/zenodo.14505940"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14505940.svg" alt="DOI"></a>
 
 <h1>Licence</h1>
 
